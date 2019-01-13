@@ -30,8 +30,6 @@ is extracted for analysis.
 
 The overall dataflow/execution order for the real-time signal processing looks like:
 
-![Alt text](http://i.imgur.com/xS7O8U3.png "Signal processing")
-
 
 Requirements:
 ---------------
