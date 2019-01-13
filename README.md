@@ -1,9 +1,11 @@
 
 
-webcam-pulse-detector
+Heartifier
 -----------------------
 
-### - UPDATE: Now with Python 3.5+ and OpenCV 3.0+ support
+✌🏻
+https://drive.google.com/file/d/1zT00aiSlZWo5I2P4prrvG1UCe30lii2_/view?usp=sharing
+
 
 
 How it works:
